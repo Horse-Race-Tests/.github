@@ -1,15 +1,15 @@
 # 🐎 Horse Race Tests Fan Repository
 
-Welcome to the Horse Race Tests Fan Repository!This repository is dedicated to collecting and sharing resources, tools, and community content related to [HorseRaceTests.com](https://horseracetests.com/), a fan-made website inspired by the viral Horse Race Tests game
+Welcome to the Horse Race Tests Fan Repository!This repository is dedicated to collecting and sharing resources, tools, and community content related to [HorseRaceTests.com](https://horseracetests.com/), a fan-made website inspired by the viral Horse Race Tests game
 
-> **Disclaimer:**This project is independently developed by fans and is not affiliated with or endorsed by the original creator of the Horse Race Tests game or videos
+> **Disclaimer:**This project is independently developed by fans and is not affiliated with or endorsed by the original creator of the Horse Race Tests game or videos
 
 ## 🌐 About HorseRaceTests.com
-[HorseRaceTests.com](https://horseracetests.com/) is a fan-created website that simulates the daily horse races popularized by the Horse Race Tests gam. The original game, developed by Twitter/X user [@snakesandrews](https://twitter.com/snakesandrews), features colorful horse icons racing through a maze towards a carro. These daily simulations gained significant attention on social media in April 2025, sparking a wave of fan art, memes, and community engagemen. citeturn0search0
+[HorseRaceTests.com](https://horseracetests.com/) is a fan-created website that simulates the daily horse races popularized by the Horse Race Tests game. The original game, developed by Twitter/X user [@snakesandrews](https://twitter.com/snakesandrews), features colorful horse icons racing through a maze towards a carro. These daily simulations gained significant attention on social media in April 2025, sparking a wave of fan art, memes, and community engagemen.
 
 ## 🎨 Community and Cultural Phenomeno
 
-Since its inception, Horse Race Tests has inspired a vibrant online communiy Fans have created artwork, memes, and even spreadsheets to track the performance of their favorite horss For example, user @wizardzzpellz shared fan art of the blue horse with the caption "Place your bets," garnering over 1,100 likes in five das Such contributions highlight the game's impact as more than just an online test—it has become a cultural phenomenn.
+Since its inception, Horse Race Tests has inspired a vibrant online community. Fans have created artwork, memes, and even spreadsheets to track the performance of their favorite horses. For example, user @wizardzzpellz shared fan art of the blue horse with the caption "Place your bets," garnering over 1,100 likes in five das Such contributions highlight the game's impact as more than just an online test—it has become a cultural phenomenn.
 
 ## 📁 Repository Contents
 
@@ -33,4 +33,4 @@ We welcome all developers and enthusiasts interested in Horse Race Tests to cont
 
 ---
 
-If you would like to further customize this README file by adding badges, contributor lists, or deployment guides, please let me know, and I'd be happy to asist you. 
+If you would like to further customize this README file by adding badges, contributor lists, or deployment guides, please let me know, and I'd be happy to asist you.
