@@ -1,7 +1,3 @@
-Certainly! Below is an updated and naturally phrased English version of the README file for your GitHub organization repository. This version clarifies that [HorseRaceTests.com](https://horseracetests.com/) is a fan-created project and is not affiliated with the original creator of the Horse Race Tests game or videos.
-
----
-
 # 🐎 Horse Race Tests Fan Repository
 
 Welcome to the Horse Race Tests Fan Repository!This repository is dedicated to collecting and sharing resources, tools, and community content related to [HorseRaceTests.com](https://horseracetests.com/), a fan-made website inspired by the viral Horse Race Tests game
